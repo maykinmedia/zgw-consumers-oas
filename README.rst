@@ -68,9 +68,9 @@ Usage
     :target: https://codecov.io/gh/maykinmedia/zgw-consumers-oas
     :alt: Coverage status
 
-.. |python-versions| image:: https://img.shields.io/pypi/pyversions/zgw_consumers.svg
+.. |python-versions| image:: https://img.shields.io/pypi/pyversions/zgw_consumers_oas.svg
 
-.. |django-versions| image:: https://img.shields.io/pypi/djversions/zgw_consumers.svg
+.. |django-versions| image:: https://img.shields.io/pypi/djversions/zgw_consumers_oas.svg
 
-.. |pypi-version| image:: https://img.shields.io/pypi/v/zgw_consumers.svg
-    :target: https://pypi.org/project/zgw_consumers/
+.. |pypi-version| image:: https://img.shields.io/pypi/v/zgw_consumers_oas.svg
+    :target: https://pypi.org/project/zgw_consumers_oas/
