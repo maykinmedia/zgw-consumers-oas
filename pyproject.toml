@@ -40,6 +40,9 @@ Homepage = "https://github.com/maykinmedia/zgw-consumers-oas"
 "Source Code" = "https://github.com/maykinmedia/zgw-consumers-oas"
 
 [project.optional-dependencies]
+mocks = [
+    "requests-mock",
+]
 tests = [
     "pytest",
     "pytest-django",
