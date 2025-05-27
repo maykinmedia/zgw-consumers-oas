@@ -1,10 +1,10 @@
 [build-system]
-requires = ["setuptools>=61.0.0"]
+requires = ["setuptools>=61.1.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
 name = "zgw-consumers-oas"
-version = "1.0.0"
+version = "1.1.0"
 description = "Tooling to deal with OpenAPI specifications, extracted from zgw-consumers."
 authors = [
     {name = "Maykin Media", email = "support@maykinmedia.nl"}
@@ -75,7 +75,7 @@ testpaths = ["tests"]
 DJANGO_SETTINGS_MODULE = "testapp.settings"
 
 [tool.bumpversion]
-current_version = "1.0.0"
+current_version = "1.1.0"
 files = [
     {filename = "pyproject.toml"},
     {filename = "README.rst"},

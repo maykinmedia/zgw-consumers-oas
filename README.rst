@@ -1,7 +1,7 @@
 ZGW Consumers' OAS tooling
 ==========================
 
-:Version: 1.0.0
+:Version: 1.1.0
 :Source: https://github.com/maykinmedia/zgw-consumers-oas
 :Keywords: OpenAPI, Django, zgw-consumers
 
